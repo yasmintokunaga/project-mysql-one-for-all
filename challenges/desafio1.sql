@@ -13,7 +13,7 @@ CREATE TABLE IF NOT EXISTS `SpotifyClone`.`pessoas_usuarias` (
   `pessoa_usuaria_id` INT NOT NULL AUTO_INCREMENT,
   `nome_pessoa_usuaria` VARCHAR(45) NOT NULL,
   `idade` INT UNSIGNED NOT NULL,
-  `plano` VARCHAR(15) NULL,
+  `plano` VARCHAR(15) NOT NULL,
   `data_assinatura` DATE NULL,
   `ativo` TINYINT UNSIGNED NOT NULL,
   PRIMARY KEY (`pessoa_usuaria_id`),
