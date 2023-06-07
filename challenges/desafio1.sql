@@ -145,7 +145,7 @@ INSERT INTO SpotifyClone.cancoes (cancoes, album_id, artista_id, duracao_segundo
 	('Under Pressure', '3', '2', '152', '1982'),
 	('Como Nossos Pais', '4', '3', '105', '1998'),
 	('O Medo De Amar É O Medo De Ser Livre', '5', '3', '207', '2001'),
-	('Samba Em Paris', '6', '4', '267', '2003'),
+	('Samba em Paris', '6', '4', '267', '2003'),
 	('The Bard\'S Song', '7', '5', '244', '2007'),
 	('Feeling Good', '8', '6', '100', '2012');
 
